@@ -1,14 +1,14 @@
 This is a todo-app using React. 
-The app features:
-1- Add a new todo button
-2- Delete a todo
-3- Delete all todos
-4- Mark a todo as done or not done
-5- Edit the description of a todo easily and instantly
+The app features:<br>
+1- Add a new todo button<br>
+2- Delete a todo<br>
+3- Delete all todos<br>
+4- Mark a todo as done or not done<br>
+5- Edit the description of a todo easily and instantly<br>
 
-Underdevelopment:
-1- Read and write all todos to a JSON file
-2- Add CSS
+Underdevelopment:<br>
+1- Read and write all todos to a JSON file<br>
+2- Add CSS<br>
 
 This app was built as part of the hackYourFuture assignments for the React module
 The original text of the assignment is:
